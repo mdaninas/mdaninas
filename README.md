@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <h1>🚀 Hi, I'm mdaninas!</h1>
+  <p><i>Welcome to my GitHub profile! Here’s what I’ve been up to 👇</i></p>
+</div>
 
-<!--
-**mdaninas/mdaninas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaninas&show_icons=true&theme=radical" width="49%" />
+</div>
+
+---
+
+## 🧠 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaninas&layout=compact&theme=radical" width="60%" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdaninas&theme=radical" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdaninas&theme=radical&row=1&column=6" />
+</div>
+
+---
