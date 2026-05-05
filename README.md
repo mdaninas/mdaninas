@@ -40,16 +40,6 @@ Right now I am spending more time around Python, AI tooling, data workflows, and
   </tr>
 </table>
 
-## Currently Exploring
-
-| Area | Notes |
-|---|---|
-| Python | Automation, data handling, and small backend-style scripts |
-| AI tooling | Prompt design, LLM workflows, and practical AI utilities |
-| Data analysis | Cleaning data, reading patterns, and presenting results clearly |
-| JavaScript | Browser basics, simple interfaces, and project interaction |
-| GitHub | Better commits, cleaner repositories, and useful documentation |
-
 ## Tools I Use / Learn
 
 <p>
