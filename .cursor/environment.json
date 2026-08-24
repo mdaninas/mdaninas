@@ -1,0 +1,11 @@
+{
+  "name": "mdaninas profile",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "npx markserv -a 0.0.0.0 -p 8642 README.md"
+    }
+  ],
+  "ports": [8642]
+}

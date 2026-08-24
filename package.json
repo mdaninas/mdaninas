@@ -1,0 +1,17 @@
+{
+  "name": "mdaninas-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling for the mdaninas GitHub profile README (lint, format, and live preview).",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\"",
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\"",
+    "preview": "markserv README.md"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.18.1",
+    "markserv": "^1.17.4",
+    "prettier": "^3.6.2"
+  }
+}

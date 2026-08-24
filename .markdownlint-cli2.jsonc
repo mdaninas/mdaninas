@@ -1,0 +1,16 @@
+{
+  // Config for markdownlint-cli2. This is a GitHub profile README that relies
+  // heavily on centered HTML blocks and badge images, so a few line-oriented
+  // rules are relaxed to match that intentional structure.
+  "config": {
+    "default": true,
+    // Allow inline HTML (h1/p/table/img) used for layout in the profile.
+    "MD033": false,
+    // Long badge/image lines are expected and should not wrap.
+    "MD013": false,
+    // First line is an HTML <h1>, not a Markdown heading.
+    "MD041": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}
